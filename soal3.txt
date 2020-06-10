@@ -1,0 +1,6 @@
+Step 1: Start
+Step 2: Declare i= integer
+Step 3: Read i
+Step 4: for i < 1 to 100 do
+        Display "Saya Senang"
+Step 6: stop

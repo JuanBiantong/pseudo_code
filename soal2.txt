@@ -1,0 +1,7 @@
+Step 1: Start
+Step 2: Declare luas,sisi = integer
+Step 3: Read sisi
+        luas = sisi*sisi
+Step 4: Compute and assign result to luas
+Step 5: Display luas
+Step 6: stop

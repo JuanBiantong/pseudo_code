@@ -1,0 +1,14 @@
+Step 1: Start
+Step 2: Declare nilai, grade
+Step 3: Input nilai
+Step 4: if nilai > 80 assign grade = A
+        Display A
+        if nilai <80 and >70 assign grade = B
+        Display B
+        if nilai <70 and >60 assign grade = C
+        Display C
+        if nilai <60 and >50 assign grade = D
+        Display D
+        if nilai < 50 assign grade = E
+        Display E
+Step 5: stop

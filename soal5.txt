@@ -1,0 +1,9 @@
+Step 1: Start
+Step 2: Declare i,ganjil, genap= integer
+Step 3: Read i
+Step 4: for i < 1 to 10 do
+        if i mod 2 = 0 assign i to genap
+        else assign i to ganjil
+Step 5: Display ganjil
+        Display genap
+Step 6: stop

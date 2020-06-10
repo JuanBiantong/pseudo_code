@@ -1,0 +1,6 @@
+Step 1: start
+Step 2: Declare variables num1, num2, num3, result
+Step 3: Read values num1 num2 num3
+Step 4: Compute num1 num2 num3 and assign result to result result = num3*num2*num3
+Step 5: Display result
+Step 6: Stop
